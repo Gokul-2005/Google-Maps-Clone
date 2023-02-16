@@ -38,5 +38,5 @@ function setMap (center){
         }),'top-left'); 
     map.keyboard.enable();    
         
-}
+};
 
